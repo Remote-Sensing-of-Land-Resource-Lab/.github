@@ -1,6 +1,6 @@
 ## Hi there 🙋‍♀
 
-The Remote Sensing of Land Resources lab is maintained by Prof. Su Ye and his lovely students in Zhejiang University, dedicated to advancing the application of remote sensing technologies in monitoring, analyzing, and managing land resources. 
+The Remote Sensing of Land Resources lab is maintained by Dr. Su Ye and his lovely students in Zhejiang University, dedicated to advancing the application of remote sensing technologies in monitoring, analyzing, and managing our land resources. 
 
 We are particularly interested in:
 
