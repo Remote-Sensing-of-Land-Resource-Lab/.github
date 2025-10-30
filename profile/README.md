@@ -10,9 +10,8 @@ We are particularly interested in:
 
 This page serves as a collaborative hub for researchers, developers, and practitioners working on the abovementioned topics. The repositories within this organization host open-source tools, scripts, and datasets designed to support reproducible research and practical solutions using multi-source time-series datasets, high-resolution images and LIDAR datasets. By promoting transparency and accessibility, the organization contributes to the global effort to better understand and sustainably manage terrestrial ecosystems through remote sensing.
 
-![image](https://github.com/user-attachments/assets/308aebde-3c6d-4da1-9b9d-6948163e10d2)
+<img width="2068" height="1543" alt="image" src="https://github.com/user-attachments/assets/04e1f2c6-f83d-4c0a-93e1-02bb1c3bcac9" />
 
-<!--
 
 **Here are some ideas to get you started:**
 
