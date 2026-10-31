@@ -1,6 +1,8 @@
 ## Hi there 🙋‍♀
 
-The Remote Sensing of Land Resources lab is maintained by Dr. Su Ye and his lovely students in Zhejiang University, dedicated to advancing the application of remote sensing technologies in monitoring, analyzing, and managing our land resources. 
+The Remote Sensing of Land Resources lab is maintained by Dr. Su Ye and his super lovely students at Zhejiang University, dedicated to advancing the application of remote sensing technologies in monitoring, analyzing, and managing our land resources. 
+
+This website includes the computational tools developed by our group as well as source codes associated with our published research.
 
 We are particularly interested in:
 
@@ -8,6 +10,8 @@ We are particularly interested in:
 **- Disturbance monitoring**: near real-time and retrospective disturbance mapping, post-disturbance forest recovery, etc  
 **- Climate change assessment**: quantifying climate impacts on disturbance regimes, vegetation traits, soil conditions, etc  
 
-This page serves as a collaborative hub for researchers, developers, and practitioners working on the abovementioned topics. The repositories within this organization host open-source tools, scripts, and datasets designed to support reproducible research and practical solutions using multi-source time-series datasets, high-resolution images and LIDAR datasets. By promoting transparency and accessibility, the organization contributes to the global effort to better understand and sustainably manage terrestrial ecosystems through remote sensing.
+This site also serves as a collaborative hub for researchers, developers, and practitioners working on the abovementioned topics. The repositories hosted within this organization provide open-source tools, scripts, and datasets designed to support reproducible research and practical applications using multi-source time-series data, high-resolution imagery, and LiDAR datasets. By promoting transparency, reproducibility, and accessibility, we hope to contribute to the global effort to better understand, monitor, and sustainably manage terrestrial ecosystems through remote sensing.
 
-<img width="2081" height="1560" alt="image" src="https://github.com/user-attachments/assets/774f3d6b-9367-42c4-acda-2f6b54e15919" />
+<img width="2185" height="1620" alt="image" src="https://github.com/user-attachments/assets/c2203dea-0152-4117-a625-ef02850d4573" />
+
+
